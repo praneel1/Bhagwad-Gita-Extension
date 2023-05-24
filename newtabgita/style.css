@@ -1,0 +1,25 @@
+body {
+    background-color:beige;
+    text-align: center;
+}
+#shlok {
+    color:maroon;
+}
+#chsl {
+    color:darkblue;
+}
+#translation {
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#block {
+    width:80%;
+    align-items: center;
+    margin:auto;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
