@@ -27,7 +27,7 @@ If you encounter any issues or have suggestions for improving the Bhagavad Gita 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
-
+ 
 ---
 
 We hope you find the Bhagavad Gita Chrome Extension to be a valuable tool for spiritual growth and inspiration. May the divine teachings of the Bhagavad Gita illuminate your path and bring peace to your life.
