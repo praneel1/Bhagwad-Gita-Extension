@@ -26,7 +26,7 @@ If you encounter any issues or have suggestions for improving the Bhagavad Gita 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
  
 ---
 
