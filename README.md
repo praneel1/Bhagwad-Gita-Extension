@@ -13,8 +13,9 @@ To install the Bhagavad Gita Chrome Extension manually, follow these steps:
 3. Open Google Chrome and navigate to `chrome://extensions`.
 4. Enable the "Developer mode" toggle located at the top right corner of the page.
 5. Click on the "Load unpacked" button.
-6. Select the folder where you extracted the extension files in Step 2.
-7. The Bhagavad Gita Chrome Extension will be loaded and activated in your browser.
+6. Go to the folder where you extracted the extension files in Step 2.
+7. Select the folder named 'newtabgita'.
+8. The Bhagavad Gita Chrome Extension will be loaded and activated in your browser.
 
 ## Usage
 
